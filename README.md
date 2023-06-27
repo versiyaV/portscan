@@ -19,7 +19,8 @@
 ./portscan
 ```
 
-![portscan](https://github.com/versiyaV/portscan/assets/115622652/16e1be6b-2229-4189-ad3d-f786db296735)
+![portscan](https://github.com/versiyaV/portscan/assets/115622652/ddb79a78-258c-462f-a3cf-3402620932c0)
+
 
 
 
